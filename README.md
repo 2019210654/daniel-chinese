@@ -1,2 +1,14 @@
-# daniel-chinese
-Daniel Chinese Language Learing
+# Daniel Chinese Language Learing
+# `Daniel语文学习`
+
+Daniel是我的儿子，一个天真活泼但很淘气的小男孩。他也是一个充满了好奇心的孩子，
+一个热爱学习的好孩子。如果他对某件事情很感兴趣的，他特别喜欢刨根究底。
+
+# 2021
+
+|#ID#|Date |Subject|
+|:--:|:---:|:------|
+| 001|2021/01/19|[连动法写具体(《蚂蚁和西瓜》)][2021001]|
+
+
+[2021001]: 2021/01/02.0119.md
